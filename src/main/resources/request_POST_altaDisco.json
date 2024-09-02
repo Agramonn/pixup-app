@@ -1,0 +1,11 @@
+{
+  "titulo":"U5 Existos",
+  "precio": 200.30,
+  "existencia": 1,
+  "descuento": 50.00,
+  "fechaLanzamiento": "2020-11-11T11:12:12",
+  "imagen": "u5_exitos.png",
+  "artista": 1,
+  "disquera": 3,
+  "generoMusical": 1
+}
